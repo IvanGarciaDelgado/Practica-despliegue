@@ -1,27 +1,27 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Este es el primer post
+subtitle: Subtitulo del primer post
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Esta es una demostración para mostrarle como escribir publicaciones con Markdown. Le recomiendo encarecidamente que [tome 5 minutos para aprender a escribir en Markdown] (https://markdowntutorial.com/) - le enseñará cómo transformar texto normal en negrita/cursiva/títulos/tablas/etc.
 
-**Here is some bold text**
+**Texto en negrita**
 
-## Here is a secondary heading
+## Aquí hay un título secundario.
 
-Here's a useless table:
+Aquí hay una mesa inútil:
 
-| Number | Next number | Previous number |
+| Numero | Siguiente numero | Anterior numero |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| Cinco | Seis | Cuatro |
+| Diez | Once | Nueve |
+| Siete | Ocho | Seis |
+| Dos | Tres | Uno |
 
 
 How about a yummy crepe?
