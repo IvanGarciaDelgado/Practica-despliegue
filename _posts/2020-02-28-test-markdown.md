@@ -24,15 +24,16 @@ Aquí hay una mesa inútil:
 | Dos | Tres | Uno |
 
 
-How about a yummy crepe?
+¿Qué tal un rico crep?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+También puede estar centrado!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+
+Aquí hay un fragmento de código:
 
 ~~~
 var foo = function(x) {
@@ -41,7 +42,8 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+
+Y aquí está el mismo código con resaltado de sintaxis:
 
 ```javascript
 var foo = function(x) {
@@ -50,7 +52,8 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
+
+Y aquí está el mismo código una vez más pero con números de línea:
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -59,20 +62,21 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
+## Cuadros
 
-### Notification
+Puede agregar cuadros de notificación, advertencia y error como este:
+
+### Notificación
 
 {: .box-note}
-**Note:** This is a notification box.
+**Nota:** Este es un cuadro de notificación.
 
 ### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Advertencia:** Este es un cuadro de advertencia.
 
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** Este es un cuadro de error.
