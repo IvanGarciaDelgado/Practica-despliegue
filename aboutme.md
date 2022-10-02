@@ -1,16 +1,16 @@
 ---
 layout: page
 title: Acerca de mi
-subtitle: Why you'd want to go on a date with me
+subtitle: Cómo realizé esta práctica
 ---
 
-Mi nombre is Inigo Montoya. I have the following qualities:
+Esta práctica de despliegue de aplicaciones web le realizé con el generador de páginas estáticas beautifull-jekyll, al desplegar nuestra página web lo primero fue cambiar el nombre, "<yourusername>.github.io", en mi caso "ivangarciadelgado". Tras esto sólo nos quedaba configurarlo y modificarlo a nuestro gusto, empezamos con _config.ylm, para así traducir y cambiar la página principal y tras esto los post, el estilo, imagenes, avatar etc. Y con esto terminamos la primera práctica de despliegue.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Beautiful-jekyll
+- Github
 
 What else do you need?
 
-### My story
+### Realizado por
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Ivan García Delgado.
